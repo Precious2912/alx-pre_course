@@ -1,6 +1,6 @@
 //GIT COMMAND USED
  
-//git > up_to_date
+//git pull
 
 
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
